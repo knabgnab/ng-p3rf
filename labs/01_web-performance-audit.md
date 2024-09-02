@@ -18,7 +18,7 @@ The first task is to try to measure the performance of a public web property.
 1. Choose a `web property` for your first lab, it can be
 
    - a **website**,
-   - a **webshop** or
+   - a **web shop** or
    - a **web app**.
 
    Note: Best option would be to test a project of your own work or else of your team or your company. The `web property` does not have to be an Angular App! However, if your company doesn't have a publicly available `web property` you can choose any website you want.
@@ -59,7 +59,7 @@ Try to identify the issues of the `web property`.
    npm i -g serve
    ```
 
-   Now switch the directory containing the build (e.g. `dist/ng-p3rf` in this workspace) and run:
+   Now switch the directory containing the build (e.g. `dist/ng-p3rf/browser` in this workspace) and run:
 
    ```shell
    serve -s
